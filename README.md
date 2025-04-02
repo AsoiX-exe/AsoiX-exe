@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/AsoiX-exe/AsoiX-exe/blob/main/animated.gif)
 # 👨💻 **AsoiX** 
- | `📱` [@AsoiX](https://t.me/AsoiX)
+ | `📱`TG: [@AsoiX](https://t.me/AsoiX)
 
 ---
 

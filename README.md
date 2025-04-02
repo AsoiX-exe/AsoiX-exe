@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://github.com/AsoiX-exe/AsoiX-exe/blob/main/animated.gif" alt="">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=200&color=08C4DF&center=true&multiline=true&repeat=false&random=false&width=435&lines=%23coffe+%3black.h%3E;%23kingdom+%3Cblack.h%3E" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=6000&pause=200&color=08C4DF&center=true&multiline=true&repeat=false&random=false&width=435&lines=%23coffee+%3king.error%3E;%23+%3Cblack.h%3E" alt="Typing SVG" />
 </div>
 
 <hr>

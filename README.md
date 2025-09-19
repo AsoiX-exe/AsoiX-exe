@@ -5,8 +5,7 @@
 ---
 
 ## 🔥 About Me
-Former Windows software architect turned **multi-platform warrior**. Specializing in:
-- Secure system design (anti-reverse engineering)
+- Reverse engineering
 - Performance-critical applications
 - Cross-platform tooling development
 - WebAssembly-powered solutions

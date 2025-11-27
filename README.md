@@ -6,9 +6,7 @@
 
 ## 🔥 About Me
 - Reverse engineering
-- Performance-critical applications
 - Cross-platform tooling development
-- WebAssembly-powered solutions
 
 *"Code is poetry when it's both elegant and bulletproof"*
 

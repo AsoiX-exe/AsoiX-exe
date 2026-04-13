@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/AsoiX-exe/AsoiX-exe/blob/main/animated.gif" alt="">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=08C4DF&center=true&vCenter=true&repeat=false&width=500&height=35&lines=Reverse+Engineering+%2F+Cybersecurity" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=1000&color=08C4DF&center=true&vCenter=true&repeat=true&width=450&height=35&lines=%3E+disassembling+reality...;%3E+patching+the+matrix...;%3E+0xDEADBEEF+loaded+successfully;%3E+stack+overflow+in+sleep();%3E+segfault+in+social_life.exe" alt="Typing SVG" />
 </div>
 
 <hr>

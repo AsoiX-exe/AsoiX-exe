@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/AsoiX-exe/AsoiX-exe/blob/main/animated.gif" alt="">
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=08C4DF&center=true&vCenter=true&multiline=true&repeat=false&width=500&height=80&lines=%24+whoami;AsoiX+%E2%80%94+reverse+engineer+%2F+security+researcher" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=08C4DF&center=true&vCenter=true&repeat=false&width=500&height=35&lines=Reverse+Engineering+%2F+Cybersecurity" alt="Typing SVG" />
 </div>
 
 <hr>
@@ -12,8 +12,8 @@
 #define NAME        "AsoiX"
 #define CONTACT     "https://t.me/AsoiX_soon"
 #define FOCUS       "Reverse Engineering, Cybersecurity"
-#define LANGUAGES   "Java, Python, C, x86 ASM"
-#define TOOLS       "IDA Pro, Ghidra, x64dbg, Wireshark"
+#define LANGUAGES   "Java, Python, C, C++, C#, x86/x64 Assembly"
+#define TOOLS       "IDA Pro, Ghidra, x64dbg"
 ```
 
 <hr>
@@ -24,27 +24,27 @@
 
 </div>
 
-> **VM Virtualization Engine** — конвертирует Java-байткод в кастомный набор инструкций.
-> Оригинальный код буквально не существует в выходном JAR.
+> **VM Virtualization Engine** — converts Java bytecode into a custom instruction set.
+> The original code literally does not exist in the output JAR.
 
 <table>
 <tr>
 <td width="50%">
 
-**Защита:**
-- 🧠 VM Virtualization — 80+ кастомных опкодов
-- 🔐 String Encryption — per-JAR, per-class cipher
-- 🍯 Honeypot Strings — фейковые ключи и пароли
-- 💥 Decompiler Crasher — крашит FernFlower, CFR, Procyon
+**Protection:**
+- VM Virtualization — 80+ custom opcodes
+- String Encryption — per-JAR, per-class cipher
+- Honeypot Strings — fake keys and credentials
+- Decompiler Crasher — breaks FernFlower, CFR, Procyon
 
 </td>
 <td width="50%">
 
-**Усиление:**
-- 🎭 Reference Hiding — invokedynamic bootstrap
-- 🔀 Control Flow Flattening — switch-dispatcher loop
-- 🗑️ Trash Code — opaque predicates, junk opcodes
-- 📛 Name Mangling + Class Renaming
+**Hardening:**
+- Reference Hiding — invokedynamic bootstrap
+- Control Flow Flattening — switch-dispatcher loop
+- Trash Code — opaque predicates, junk opcodes
+- Name Mangling + Class Renaming
 
 </td>
 </tr>
@@ -65,27 +65,27 @@ Version:   v1.0.4
 
 <div align="center">
 
-### 🧬 Malware-DNA-Analyzer — Static Malware Analysis
+### 🔍 Malware-DNA-Analyzer — Static Malware Analysis
 
 </div>
 
-> Heuristic-методы и «цифровая ДНК» файлов — классический PE-анализ
-> в связке с современными методами детекции угроз. PyQt5 GUI.
+> Heuristic methods and "digital DNA" analysis of PE files — classic static analysis
+> combined with modern threat detection techniques. PyQt5 GUI.
 
 <table>
 <tr>
 <td width="50%">
 
-**Анализ:**
-- 🔍 Heuristic analysis entry points и секций PE
-- 📊 Entropy analysis — детекция упакованных/зашифрованных секций
-- 🛡️ Детекция anti-debug и anti-VM техник
-- 🧩 Анализ .NET assemblies
+**Analysis:**
+- Heuristic analysis of PE entry points and sections
+- Entropy analysis — detection of packed/encrypted sections
+- Anti-debug and anti-VM technique detection
+- .NET assembly analysis
 
 </td>
 <td width="50%">
 
-**Детекция упаковщиков:**
+**Packer detection:**
 - UPX, ASPack, PECompact, Themida, VMProtect
 - .NET Reactor, Enigma, Confuser, SmartAssembly
 - Armadillo, Obsidium, ZProtect, CodeVirtualizer
@@ -103,7 +103,6 @@ Stack:       Python · PyQt5
 
 <p align="center">
 <a href="https://github.com/AsoiX-exe/Malware-DNA-Analyzer"><img src="https://img.shields.io/badge/→_Repository-Malware--DNA--Analyzer-181717?style=for-the-badge&logo=github" alt="Malware-DNA-Analyzer"></a>
-<a href="https://github.com/AsoiX-exe/Malware-DNA-Analyzer/releases"><img src="https://img.shields.io/badge/-Download-2ea44f?style=for-the-badge&label=📥" alt="Download"></a>
 </p>
 
 <hr>

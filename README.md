@@ -12,7 +12,7 @@
 #define NAME        "AsoiX"
 #define CONTACT     "https://t.me/AsoiX_soon"
 #define FOCUS       "Reverse Engineering, Cybersecurity"
-#define LANGUAGES   "Java, Python, C, C++, C#, x86/x64 Assembly"
+#define LANGUAGES   "C, C++, C#, x86/x64 Assembly"
 #define TOOLS       "IDA Pro, Ghidra, x64dbg"
 ```
 

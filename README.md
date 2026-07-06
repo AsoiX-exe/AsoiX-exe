@@ -18,7 +18,7 @@
 
 <div align="center">
 
-### 🔒 obfus.jar — Advanced Java Obfuscator
+### 🔒 obfus.jar — Java Obfuscator
 
 </div>
 

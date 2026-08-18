@@ -14,94 +14,28 @@
 #define FOCUS       "Reverse Engineering, Cybersecurity"
 ```
 
-<hr>
-
 <div align="center">
-
-### 🔒 obfus.jar — Java Obfuscator
-
+<br>
+<img alt="Stars" src="https://img.shields.io/github/stars/AsoiX-exe?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90%20Stars">
+&nbsp;
+<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=AsoiX-exe&color=08C4DF">
+<br><br>
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsoiX-exe&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=08C4DF">
 </div>
-
-> **VM Virtualization Engine** — converts Java bytecode into a custom instruction set.
-> The original code literally does not exist in the output JAR.
-
-<table>
-<tr>
-<td width="50%">
-
-**Protection:**
-- VM Virtualization — 80+ custom opcodes
-- String Encryption — per-JAR, per-class cipher
-- Honeypot Strings — fake keys and credentials
-- Decompiler Crasher — breaks FernFlower, CFR, Procyon
-
-</td>
-<td width="50%">
-
-**Hardening:**
-- Reference Hiding — invokedynamic bootstrap
-- Control Flow Flattening — switch-dispatcher loop
-- Trash Code — opaque predicates, junk opcodes
-- Name Mangling + Class Renaming
-
-</td>
-</tr>
-</table>
-
-```
-Targets:   Spigot/Paper · Fabric/Forge · BungeeCord/Velocity · Standalone Java
-Stack:     Java 8+ · ASM 9.6 · FlatLaf 3.4.1
-Version:   v1.0.4
-```
-
-<p align="center">
-<a href="https://github.com/AsoiX-exe/obfus.jar"><img src="https://img.shields.io/badge/→_Repository-obfus.jar-181717?style=for-the-badge&logo=github" alt="obfus.jar"></a>
-<a href="https://github.com/AsoiX-exe/obfus.jar/releases"><img src="https://img.shields.io/github/v/release/AsoiX-exe/obfus.jar?style=for-the-badge&color=ab3300&label=Release" alt="Release"></a>
-</p>
 
 <hr>
 
-<div align="center">
+### Projects
 
-### 🔍 Malware-DNA-Analyzer — Static Malware Analysis
+**🔒 [obfus.jar](https://github.com/AsoiX-exe/obfus.jar)** — Java obfuscator with a bytecode-virtualizing VM engine (80+ custom opcodes), string encryption and control-flow flattening.
+<br>
+<img alt="stars" src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90">
+<img alt="release" src="https://img.shields.io/github/v/release/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=0038c4&label=release">
 
-</div>
-
-> Heuristic methods and "digital DNA" analysis of PE files — classic static analysis
-> combined with modern threat detection techniques. PyQt5 GUI.
-
-<table>
-<tr>
-<td width="50%">
-
-**Analysis:**
-- Heuristic analysis of PE entry points and sections
-- Entropy analysis — detection of packed/encrypted sections
-- Anti-debug and anti-VM technique detection
-- .NET assembly analysis
-
-</td>
-<td width="50%">
-
-**Packer detection:**
-- UPX, ASPack, PECompact, Themida, VMProtect
-- .NET Reactor, Enigma, Confuser, SmartAssembly
-- Armadillo, Obsidium, ZProtect, CodeVirtualizer
-- NsPack, MPRESS, obfus.h, Babel, Dotfuscator
-
-</td>
-</tr>
-</table>
-
-```
-Detection:   20+ packers/protectors · XOR encryption · Math mutations
-Analysis:    Suspicious imports · Network functions · Process manipulation
-Stack:       Python · PyQt5
-```
-
-<p align="center">
-<a href="https://github.com/AsoiX-exe/Malware-DNA-Analyzer"><img src="https://img.shields.io/badge/→_Repository-Malware--DNA--Analyzer-181717?style=for-the-badge&logo=github" alt="Malware-DNA-Analyzer"></a>
-</p>
+**🧬 [Malware-DNA-Analyzer](https://github.com/AsoiX-exe/Malware-DNA-Analyzer)** — static PE malware analysis: heuristics, entropy and 20+ packer/protector detection, with a PyQt5 GUI.
+<br>
+<img alt="stars" src="https://img.shields.io/github/stars/AsoiX-exe/Malware-DNA-Analyzer?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90">
+<img alt="forks" src="https://img.shields.io/github/forks/AsoiX-exe/Malware-DNA-Analyzer?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1">
 
 <hr>
 
@@ -117,5 +51,3 @@ Stack:       Python · PyQt5
 | **Storage** | SSD 1 TB + HDD 3 TB |
 
 </details>
-
-

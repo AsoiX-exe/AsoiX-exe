@@ -6,36 +6,36 @@
 
 <hr>
 
-```c
-// about.h
-
-#define NAME        "AsoiX"
-#define CONTACT     "https://t.me/AsoiX_S"
-#define FOCUS       "Reverse Engineering, Cybersecurity"
-```
-
 <div align="center">
-<br>
-<img alt="Stars" src="https://img.shields.io/github/stars/AsoiX-exe?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90%20Stars">
-&nbsp;
-<img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=AsoiX-exe&color=08C4DF">
+
+**Hi, I'm AsoiX** — I take software apart and build protections for it.<br>
+Reverse engineering · cybersecurity · low-level tooling.
+
+<a href="https://t.me/AsoiX_S"><img src="https://img.shields.io/badge/Telegram-%40AsoiX__S-08C4DF?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://asoix.space"><img src="https://img.shields.io/badge/Website-asoix.space-181717?style=for-the-badge&logo=firefoxbrowser&logoColor=08C4DF"></a>
+
 <br><br>
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsoiX-exe&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=08C4DF">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=AsoiX-exe&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=08C4DF&icon_color=08C4DF">
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsoiX-exe&langs_count=6&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=08C4DF">
+
 </div>
 
 <hr>
 
-### Projects
+<div align="center">
 
-**🔒 [obfus.jar](https://github.com/AsoiX-exe/obfus.jar)** — Java obfuscator with a bytecode-virtualizing VM engine (80+ custom opcodes), string encryption and control-flow flattening.
-<br>
-<img alt="stars" src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90">
-<img alt="release" src="https://img.shields.io/github/v/release/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=0038c4&label=release">
+### Featured project
 
-**🧬 [Malware-DNA-Analyzer](https://github.com/AsoiX-exe/Malware-DNA-Analyzer)** — static PE malware analysis: heuristics, entropy and 20+ packer/protector detection, with a PyQt5 GUI.
-<br>
-<img alt="stars" src="https://img.shields.io/github/stars/AsoiX-exe/Malware-DNA-Analyzer?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90">
-<img alt="forks" src="https://img.shields.io/github/forks/AsoiX-exe/Malware-DNA-Analyzer?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1">
+<a href="https://github.com/AsoiX-exe/obfus.jar">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AsoiX-exe&repo=obfus.jar&theme=react&hide_border=true&bg_color=0d1117&title_color=08C4DF&icon_color=08C4DF" alt="obfus.jar">
+</a>
+
+</div>
+
+**🔒 obfus.jar** — a Java obfuscator built around a bytecode-virtualizing VM engine
+(80+ custom opcodes), plus string encryption, control-flow flattening and decompiler
+crashing. The original code no longer exists in the output JAR.
 
 <hr>
 

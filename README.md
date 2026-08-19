@@ -18,10 +18,9 @@ Reverse engineering · cybersecurity · low-level tooling.
 <br><br>
 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Assembly-525252?style=flat-square">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
 
 </div>
 

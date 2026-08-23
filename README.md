@@ -15,7 +15,7 @@ Reverse engineering · cybersecurity · low-level tooling.
 <a href="https://asoix.space"><img src="https://img.shields.io/badge/Website-asoix.space-181717?style=for-the-badge&logo=firefoxbrowser&logoColor=08C4DF"></a>
 <a href="https://github.com/AsoiX-exe?tab=followers"><img src="https://img.shields.io/github/followers/AsoiX-exe?style=for-the-badge&labelColor=3d3d3d&color=08C4DF&logo=github&label=Followers"></a>
 <br><br>
-<img src="https://komarev.com/ghpvc/?username=AsoiX-exe&base=320&label=Profile%20views&color=08C4DF&style=for-the-badge" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=AsoiX-exe&label=Profile%20views&color=08C4DF&style=for-the-badge" alt="Profile views">
 
 <br><br>
 

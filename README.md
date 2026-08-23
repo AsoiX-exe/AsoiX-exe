@@ -14,6 +14,7 @@ Reverse engineering · cybersecurity · low-level tooling.
 <a href="https://t.me/AsoiX_S"><img src="https://img.shields.io/badge/Telegram-%40AsoiX__S-08C4DF?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://asoix.space"><img src="https://img.shields.io/badge/Website-asoix.space-181717?style=for-the-badge&logo=firefoxbrowser&logoColor=08C4DF"></a>
 <a href="https://github.com/AsoiX-exe?tab=followers"><img src="https://img.shields.io/github/followers/AsoiX-exe?style=for-the-badge&labelColor=3d3d3d&color=08C4DF&logo=github&label=Followers"></a>
+<img src="https://komarev.com/ghpvc/?username=AsoiX-exe&label=Profile%20views&color=08C4DF&style=for-the-badge" alt="Profile views">
 
 <br><br>
 
@@ -26,15 +27,30 @@ Reverse engineering · cybersecurity · low-level tooling.
 
 <hr>
 
-### Projects
+## Projects
 
-**🔒 [obfus.jar](https://github.com/AsoiX-exe/obfus.jar)** — a Java obfuscator built around
-a bytecode-virtualizing VM engine (80+ custom opcodes), with string encryption,
-control-flow flattening and decompiler crashing. The original code no longer exists in
-the output JAR.
-
-<a href="https://github.com/AsoiX-exe/obfus.jar"><img src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90%20stars"></a>
-<a href="https://github.com/AsoiX-exe/obfus.jar/releases"><img src="https://img.shields.io/github/v/release/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=0038c4&label=release"></a>
+<table>
+  <thead>
+    <tr>
+      <td><b>📘 Project</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>🌱 Forks</b></td>
+      <td><b>⬇ Downloads</b></td>
+    </tr>
+  </thead>
+  <tr>
+    <td><a href="https://github.com/AsoiX-exe/obfus.jar">🔒 <b>obfus.jar</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/obfus.jar/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/AsoiX-exe/CaptureDetector">🎥 <b>CaptureDetector</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90"></td>
+    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1"></td>
+    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/CaptureDetector/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87"></td>
+  </tr>
+</table>
 
 <hr>
 

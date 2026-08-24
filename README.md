@@ -33,18 +33,18 @@ Reverse engineering · cybersecurity · low-level tooling.
 <table>
   <thead>
     <tr>
-    <td><a href="https://github.com/AsoiX-exe/CaptureDetector">🎥 <b>CaptureDetector</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90&cacheSeconds=3600"></td>
-    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1&cacheSeconds=3600"></td>
-    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/CaptureDetector/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87&cacheSeconds=3600"></td>
-  </tr>
-  <tr>
       <td><b>📘 Project</b></td>
       <td><b>⭐ Stars</b></td>
       <td><b>🌱 Forks</b></td>
       <td><b>⬇ Downloads</b></td>
     </tr>
   </thead>
+  <tr>
+    <td><a href="https://github.com/AsoiX-exe/CaptureDetector">🎥 <b>CaptureDetector</b></a></td>
+    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90&cacheSeconds=3600"></td>
+    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1&cacheSeconds=3600"></td>
+    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/CaptureDetector/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87&cacheSeconds=3600"></td>
+  </tr>
   <tr>
     <td><a href="https://github.com/AsoiX-exe/obfus.jar">🔒 <b>obfus.jar</b></a></td>
     <td><img src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90&cacheSeconds=3600"></td>

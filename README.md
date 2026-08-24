@@ -30,28 +30,9 @@ Reverse engineering · cybersecurity · low-level tooling.
 
 ## Projects
 
-<table>
-  <thead>
-    <tr>
-      <td><b>📘 Project</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🌱 Forks</b></td>
-      <td><b>⬇ Downloads</b></td>
-    </tr>
-  </thead>
-  <tr>
-    <td><a href="https://github.com/AsoiX-exe/CaptureDetector">🎥 <b>CaptureDetector</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90&cacheSeconds=1800"></td>
-    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/CaptureDetector?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1&cacheSeconds=1800"></td>
-    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/CaptureDetector/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87&cacheSeconds=1800"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/AsoiX-exe/obfus.jar">🔒 <b>obfus.jar</b></a></td>
-    <td><img src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=ab3300&label=%E2%AD%90&cacheSeconds=1800"></td>
-    <td><img src="https://img.shields.io/github/forks/AsoiX-exe/obfus.jar?style=flat-square&labelColor=3d3d3d&color=0038c4&label=%F0%9F%8C%B1&cacheSeconds=1800"></td>
-    <td><img src="https://img.shields.io/github/downloads/AsoiX-exe/obfus.jar/total?style=flat-square&labelColor=3d3d3d&color=08C4DF&label=%E2%AC%87&cacheSeconds=1800"></td>
-  </tr>
-</table>
+- <img alt="Stars" src="https://img.shields.io/github/stars/AsoiX-exe/CaptureDetector?style=flat&labelColor=3d3d3d&color=ab3300&logo=github&label=Stars&cacheSeconds=1800"> &nbsp;**[CaptureDetector](https://github.com/AsoiX-exe/CaptureDetector)** — finds windows hidden from screenshots and screen recording. Cross-platform, written in C.
+
+- <img alt="Stars" src="https://img.shields.io/github/stars/AsoiX-exe/obfus.jar?style=flat&labelColor=3d3d3d&color=ab3300&logo=github&label=Stars&cacheSeconds=1800"> <img alt="Downloads" src="https://img.shields.io/github/downloads/AsoiX-exe/obfus.jar/total?style=flat&labelColor=3d3d3d&color=2ea043&label=downloads&cacheSeconds=1800"> &nbsp;**[obfus.jar](https://github.com/AsoiX-exe/obfus.jar)** — a Java obfuscator with a bytecode-virtualizing VM engine, string encryption and control-flow flattening.
 
 <hr>
 
